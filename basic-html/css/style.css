@@ -1,0 +1,56 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+form{
+    width: 40%;
+    border: 3px solid #1044d4;
+    padding: 50px;
+    margin: 0 auto;
+
+
+
+}
+input[type=text], input[type=password]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #1044d4;
+    box-sizing: border-box;
+
+}
+button{
+    background-color: #07771f;
+    color:white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: brown;
+    cursor: pointer;
+    width: 100%;
+
+}
+.cnclbttn{
+    width: auto;
+    padding: 10px 18px;
+    background-color: rgb(223, 40, 8);
+
+}
+.imgcontainer{
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+img.avatar{
+    width: 40%;
+    border-radius: 100%;
+
+}
+.container{
+    padding: 16px;
+
+}
+span.password{
+    float:right;
+    padding: top 16px;
+}
+
